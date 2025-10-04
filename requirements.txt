@@ -1,0 +1,10 @@
+jupyterlab
+unsloth 
+trl 
+peft 
+accelerate 
+bitsandbytes 
+datasets 
+sentencepiece 
+transformers
+llama-cpp-python
