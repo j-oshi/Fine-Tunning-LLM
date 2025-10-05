@@ -1,0 +1,16 @@
+services:
+  llm-notebook:
+    build: .
+    container_name: llm-notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./workspace:/workspace
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    runtime: nvidia

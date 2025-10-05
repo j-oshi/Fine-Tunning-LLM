@@ -1,10 +1,13 @@
 jupyterlab
+ipywidgets
+workspace
 unsloth 
+unsloth_zoo
 trl 
 peft 
 accelerate 
 bitsandbytes 
 datasets 
 sentencepiece 
-transformers
+# transformers
 llama-cpp-python
