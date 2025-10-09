@@ -11,8 +11,8 @@ A walk through **building**, **running**, and **using** the Docker setup with **
 This Docker environment provides a ready-to-run GPU setup for fine-tuning large language models using **Unsloth**, **Transformers**, **PEFT**, **TRL**, and **BitsAndBytes** — all inside **JupyterLab**.
 
 It’s based on:
-- **Ubuntu 22.04**
-- **CUDA 12.8 Runtime**
+- **Ubuntu 24.04**
+- **CUDA 13.0 Runtime**
 - **Python 3**
 - **JupyterLab**
 - **Transformers / TRL / PEFT / Accelerate / Datasets**
