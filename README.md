@@ -15,9 +15,8 @@ It’s based on:
 - **CUDA 12.8 Runtime**
 - **Python 3**
 - **JupyterLab**
-- **Unsloth + Unsloth Zoo**
 - **Transformers / TRL / PEFT / Accelerate / Datasets**
-- **llama-cpp-python** (for GGUF/quantized model export)
+- **llama-cpp** (for GGUF/quantized model export)
 
 ---
 
