@@ -1,13 +1,13 @@
+transformers>=4.44.0
+workspace
+datasets
+accelerate
+peft>=0.11.0
+bitsandbytes
+safetensors
+huggingface_hub
+scipy
 jupyterlab
 ipywidgets
-workspace
-unsloth 
-unsloth_zoo
-trl 
-peft 
-accelerate 
-bitsandbytes 
-datasets 
-sentencepiece 
-# transformers
-llama-cpp-python
+sentencepiece
+mistral-common
